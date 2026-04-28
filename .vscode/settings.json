@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Library Management System with SQLite/lib/sqlite-jdbc-3.53.0.0-natives-windows.jar"
+    ]
+}
